@@ -7,9 +7,9 @@
 //
 
 import XCTest
-@testable import Flix_Part1
+@testable import Flix
 
-class Flix_Part1Tests: XCTestCase {
+class FlixTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.

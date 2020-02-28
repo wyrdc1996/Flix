@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Flix_Part1.xcodeproj">
+      location = "group:/Users/haitaohuang/SJSU/swift/Flix_Part1/Flix.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
