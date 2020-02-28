@@ -18,7 +18,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/vIyMStuwcT.gif" width=250><br>
 
 ### Notes
-When I worked on the first bonus user story, I just create a show segue action from the movie grid cell to the same new view controller I used for the movies table cell. I am not sure is it a right approach, or I should create a new view controller for this task, but it works fine for now.
+When I worked on the first bonus user story, I just create a show segue action from the movie grid cell to the same new view controller I used for the movie table cell. I am not sure is it the right approach, or I should create a new view controller for this task, but it works fine for now.
 
 ---
 
